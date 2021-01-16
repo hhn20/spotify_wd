@@ -1,6 +1,6 @@
-# Western Digital Internship
+# Western Digital Internship (July - August 2020)
 
-#### By Harshaa Narayan and Dhruva Narayan (July - August 2020)
+#### By Harshaa Narayan and Dhruva Narayan
 #### Guided by: Hanumanth Mannur
 ---
 
