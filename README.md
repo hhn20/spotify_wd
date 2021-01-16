@@ -37,3 +37,5 @@ This way our model stays up to date even when there is a drift in the kind of da
 This is the flow of execution that has been implemented by us:
 
 <img src = "/flowchart.png">
+
+Download the "Results and Discussions" word document to see the results
